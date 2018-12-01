@@ -1,2 +1,2 @@
-# hello-world
-my first repository
+# about me
+hi.i am not beautiful
